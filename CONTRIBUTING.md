@@ -1,8 +1,11 @@
- # Contributing
-
 Please do.
 
 Use issues for discussions. Merge/pull requests to discuss code changes.
+
+## Home
+
+Project lives at [GitLab](https://gitlab.com/tom.davidson/aws-mock-events) and mirrored on GitHub. Bring changes in from GitHub maybe a bit more hassel but 
+worth figuring out how to do well.
 
 ## Pull Request Process
 
