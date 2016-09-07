@@ -1,5 +1,4 @@
-
-## Supported Mock Events:
+## Supported Mock Events
  - SNS
  - S3 Put
  - DynamoDB
