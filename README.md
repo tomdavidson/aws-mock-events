@@ -15,7 +15,9 @@ const context = require('aws-lambda-mock-context');
 const mockSNSEvent = require('aws-mock-events').SNS;
 const mockDDBEvent = require('aws-mock-events').DynamoDB;
 const mockS3PutEvent = require('aws-mock-events').S3Put;
+const ConfigChange = require('./events/ConfigChange.json');
+const ConfigPeriodic = require('./events/ConfigPeriodic.json');
 
-// modify the event to suit your tests
+// modify the event to suite your tests
 mockSNSEvent.Records[0].Sns.Message = 'testMessage';
 ```

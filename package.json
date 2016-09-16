@@ -13,6 +13,7 @@
     "mock"
   ],
   "devDependencies": {
+    "eslint": "^3.5.0",
     "faucet": "0.0.1",
     "tape": "^4.6.0"
   },
