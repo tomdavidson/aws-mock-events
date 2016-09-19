@@ -2,6 +2,8 @@
  - SNS
  - S3 Put
  - DynamoDB
+ - Config Chane
+ - Config Periodic
 
 ## Usage
 
